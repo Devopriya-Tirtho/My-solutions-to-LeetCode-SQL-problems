@@ -89,7 +89,7 @@ This repository contains solutions to the **Top SQL 50 Questions** on [LeetCode]
 
 ## How to Use This Repository
 
-As I solve each problem, I will add the solution in SQL format under the `solutions` directory, following the convention `problem-number-problem-name.sql`. To run a solution:
+As I solve each problem, I will add the solution in SQL format under the `solutions` directory, following the convention `problem-number.sql`. To run a solution:
 
 1. Copy the SQL script from the corresponding solution file.
 2. Run the script in your preferred SQL environment (e.g., MySQL, PostgreSQL).
